@@ -1,4 +1,6 @@
+.vscode
 *.code-workspace
+playground
 Песочница.epf
 epf
 bsl-language-server.json
