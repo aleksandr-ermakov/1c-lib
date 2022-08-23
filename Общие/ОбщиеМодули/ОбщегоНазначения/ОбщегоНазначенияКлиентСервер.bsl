@@ -1,7 +1,9 @@
 
+// BSLLS-CognitiveComplexity:off
+
 #Область OneScript
 
-Перем СериализаторXDTO;
+Перем СериализаторXDTO; // Для тестирования
 
 #КонецОбласти // OneScript
 
