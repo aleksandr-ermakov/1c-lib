@@ -1,10 +1,10 @@
 
-// BSLLS-CognitiveComplexity:off
+// BSLLS:CognitiveComplexity-off
 
 #Область OneScript
-
+// BSLLS:UnusedLocalVariable-off
 Перем СериализаторXDTO; // Для тестирования
-
+// BSLLS:UnusedLocalVariable-on
 #КонецОбласти // OneScript
 
 #Область ОписанияТипов
