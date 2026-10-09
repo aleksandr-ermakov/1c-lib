@@ -4,5 +4,5 @@ playground
 Песочница.epf
 epf
 bsl-language-server.json
-
+*.log
 testrunner.os
